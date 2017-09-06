@@ -1,6 +1,6 @@
 ## Welcome to My page
 
-This is my presentation of this account. it's used for developing code .....
+This is my presentation of this account. it's used for developing code for this amazing project...
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
